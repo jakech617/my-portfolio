@@ -1,5 +1,7 @@
-# 2-06-homework
+# Portfolio
 
+
+<<<<<<< HEAD
 Professional Portfolio
 
 
@@ -145,3 +147,5 @@ So if you're going to be looking for a job at the end of your boot camp, go ahea
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+>>>>>>> 3a7fdc385e2c8872bc009588c377c7cb79f82a4b
