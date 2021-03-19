@@ -23,7 +23,7 @@ h1 {
 
 /* Section heading style */
 h2 {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     font-size: 46px;
     color: #d39d55;
 }
@@ -186,7 +186,7 @@ img {
 }
 
 /* Connect link styling */
-#phone-number, #email, #github, #linkedin {
+#phone-number, #email, #github, #linkedin, #resume {
     text-decoration: underline;
     color: #60b8ff;
 }
